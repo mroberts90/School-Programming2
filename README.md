@@ -2,20 +2,7 @@
 The second programming problem for my class
 
 package Chapter3PPMatthewRoberts;
-/* Matthew Roberts
- * 10/08/2019
- * Project 3
- * Extra Credit: 5 points if accomplished and submitted on the 8th of October
- * Project Description:  
- * 1) Use the sqrt method of the Math class to get the square root of the user’s age.
- * 2) Get the last four characters (assuming the last name has at least five characters) of the last name.
- * 3) Generate a random number between the user’s age and 99 inclusive.
- * 4)Make a user name using the character from first name, the last four characters of the last name and the
-random number.
-5) The user name must be all in lower case.
-6) Display a message to inform the user of his user name.
 
- */
 import java.util.Scanner;
 import java.util.Random;
 public class Chapter3PPMatthewRoberts {
